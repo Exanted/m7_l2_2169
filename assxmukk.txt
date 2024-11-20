@@ -2,6 +2,11 @@ yazdır_ekrana_yazı(Xlevi Burdaydı)
 
 print(SA)
 
-Nassın
+Nassın 
 
 qwertyuıopğüasdfghjklşi,<zxcvbnmöç.;:"1234567890
+
+"İSTİKBAL GÖKLERDEDİR ! " 
+                          -MUSTAFA KEMAL ATATÜRK
+
+
