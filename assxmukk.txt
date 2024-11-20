@@ -1,0 +1,7 @@
+yazdır_ekrana_yazı(Xlevi Burdaydı)
+
+print(SA)
+
+Nassın
+
+qwertyuıopğüasdfghjklşi,<zxcvbnmöç.;:"1234567890
